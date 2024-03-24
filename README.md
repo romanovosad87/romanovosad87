@@ -1,7 +1,7 @@
 <center>
   
 ## Hi 👋, I'm Roman
-**Java Software Engineer | Back-End Web Development | AWS Certified**
+****Java Software Engineer | Back-End Web Development | AWS Certified****
 
 </center> 
 
