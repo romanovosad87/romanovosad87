@@ -14,7 +14,7 @@ me to contribute effectively in various professional settings.
 
 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/roman-novosad-010417292/)
-- e-mail: roman.novosad@yahoo.com
+- roman.novosad@yahoo.com
 
  ## Programming Skills:
 - **Java:** Java 17, Java Core, OOP, SOLID
