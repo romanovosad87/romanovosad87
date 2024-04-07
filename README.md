@@ -29,7 +29,7 @@ me to contribute effectively in various professional settings.
 
 ## Additional info:
 - 🌱 I’m currently learning k8s
-- 📋 Posts: [Medium.com](https://medium.com/@roman.novosad87)
+- 📋 Publications: [Medium.com](https://medium.com/@roman.novosad87)
   
 <!--
 **romanovosad87/romanovosad87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
