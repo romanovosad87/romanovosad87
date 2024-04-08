@@ -23,6 +23,7 @@ me to contribute effectively in various professional settings.
 - **Web Development:** Servlet, Tomcat
 - **Tools:** JUnit, Mockito, Maven, Docker
 - **AWS:** Elastic BeanStalk, RDS, Cognito, Lambda, SES, S3, R53
+- **CI/CD:** GitHub Actions
 - **Integration:** Stripe, Cloudinary, ShipEngine
 - **Version Control Tools:** Git
 - **IDE:** IntelliJ IDEA
