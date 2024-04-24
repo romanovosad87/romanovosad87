@@ -29,7 +29,7 @@ me to contribute effectively in various professional settings.
 - **IDE:** IntelliJ IDEA
 
 ## Additional info:
-- 🌱 I’m currently learning k8s
+- 🌱 I’m currently learning k8s, Kafka
 - 📋 Publications: [Medium.com](https://medium.com/@roman.novosad87)
   
 <!--
