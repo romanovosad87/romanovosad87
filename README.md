@@ -1,7 +1,7 @@
 <center>
   
 ## Hi 👋, I'm Roman
-****Java Software Engineer | Back-End Web Development | AWS Certified | Spring Certified****
+****Java Software Engineer | Back-End Web Development | AWS Certified | Spring Certified | Apache Kafka Certified****
 
 </center> 
 
@@ -21,7 +21,7 @@ me to contribute effectively in various professional settings.
 - **DB:** JDBC, Hibernate, MySQL, PostgreSQL, Liquibase, Flyway
 - **Spring:** Spring Boot, Spring Web, Spring Security, Spring Data JPA
 - **Web Development:** Servlet, Tomcat
-- **Tools:** JUnit, Mockito, Maven, Docker
+- **Tools:** JUnit, Mockito, Maven, Docker, Kafka
 - **AWS:** Elastic BeanStalk, RDS, Cognito, Lambda, SES, S3, R53
 - **CI/CD:** GitHub Actions
 - **Integration:** Stripe, Cloudinary, ShipEngine
@@ -29,7 +29,7 @@ me to contribute effectively in various professional settings.
 - **IDE:** IntelliJ IDEA
 
 ## Additional info:
-- 🌱 I’m currently learning k8s, Kafka
+- 🌱 I’m currently learning k8s
 - 📋 Publications: [Medium.com](https://medium.com/@roman.novosad87)
   
 <!--
