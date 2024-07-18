@@ -1,7 +1,7 @@
 <center>
   
 ## Hi 👋, I'm Roman
-****Java Software Engineer | Back-End Web Development | AWS Certified | Spring Certified | Apache Kafka Certified****
+****Java Software Engineer  AWS Certified | Spring Certified | Apache Kafka Certified****
 
 </center> 
 
