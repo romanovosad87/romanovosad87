@@ -21,7 +21,7 @@ me to contribute effectively in various professional settings.
 - **DB:** JDBC, Hibernate, MySQL, PostgreSQL, Liquibase, Flyway
 - **Spring:** Spring Boot, Spring Web, Spring Security, Spring Data JPA
 - **Web Development:** Servlet, Tomcat
-- **Tools:** JUnit, Mockito, Maven, Docker, Kafka
+- **Tools:** JUnit, Mockito, Maven, Docker, Kafka, Axon Framework
 - **AWS:** Elastic BeanStalk, RDS, Cognito, Lambda, SES, S3, R53
 - **CI/CD:** GitHub Actions
 - **Integration:** Stripe, Cloudinary, ShipEngine
