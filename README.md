@@ -17,14 +17,12 @@ me to contribute effectively in various professional settings.
 - roman.novosad@yahoo.com
 
  ## Programming Skills:
-- **Java:** Java 17, Java Core, OOP, SOLID
-- **DB:** JDBC, Hibernate, MySQL, PostgreSQL, Liquibase, Flyway
-- **Spring:** Spring Boot, Spring Web, Spring Security, Spring Data JPA
-- **Web Development:** Servlet, Tomcat
-- **Tools:** JUnit, Mockito, Maven, Docker, Kafka, Axon Framework
-- **AWS:** Elastic BeanStalk, RDS, Cognito, Lambda, SES, S3, R53
-- **CI/CD:** GitHub Actions
-- **Integration:** Stripe, Cloudinary, ShipEngine
+- **Java:** Java 21, Java Core, OOP, SOLID
+- **Databases & Data Systems**: MySQL, PostgreSQL, JDBC, Liquibase, Flyway, Redis, Elasticsearch, Kafka
+- **Spring:** Spring Boot, Spring Web, Spring Security, Spring Data JPA, Spring Batch
+- **Cloud:** AWS, GCP
+- **DevOps & Infrastructure:** Docker, Kubernetes, ArgoCD, Terraform
+- **CI/CD:** GitHub Actions, Jenkins, Maven
 - **Version Control Tools:** Git
 - **IDE:** IntelliJ IDEA
 
