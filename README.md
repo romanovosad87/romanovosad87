@@ -17,7 +17,7 @@ me to contribute effectively in various professional settings.
 - roman.novosad@yahoo.com
 
  ## Programming Skills:
-- **Java:** Java 21, Java Core, OOP, SOLID
+- **Java:** Java 25, Java Core, OOP, SOLID
 - **Databases & Data Systems**: MySQL, PostgreSQL, JDBC, Liquibase, Flyway, Redis, Elasticsearch, Kafka
 - **Spring:** Spring Boot, Spring Web, Spring Security, Spring Data JPA, Spring Batch
 - **Cloud:** AWS, GCP
